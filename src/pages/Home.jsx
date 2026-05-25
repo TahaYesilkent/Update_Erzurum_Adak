@@ -87,7 +87,7 @@ const Home = ({ setActivePage }) => {
               </h1>
 
               <p className="text-xl text-slate-600 leading-relaxed max-w-xl mb-12">
-                İslami usullere tam uyumlu, hijyen sertifikalı tesisimizde
+                İslami usullere tam uyumlu tesisimizde
                 <span className="font-bold text-slate-900 underline decoration-emerald-400 decoration-4 underline-offset-4">
                   {" "}
                   vekaletle kesim

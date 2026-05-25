@@ -9,8 +9,8 @@ import Gallery from "./pages/Gallery";
 import Contact from "./pages/Contact";
 import MobileStickyBar from "./components/MobileStickyBar";
 // Sadece en temel ve hata verme olasılığı düşük ikonları alıyoruz
-import { MessageCircle, Phone, MapPin, ChevronRight } from "lucide-react";
-
+import { MessageCircle, Phone, MapPin } from "lucide-react";
+//For Github Conncetion
 function App() {
   const [activePage, setActivePage] = useState("home");
 
