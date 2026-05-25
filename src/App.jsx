@@ -7,7 +7,7 @@ import Home from "./pages/Home";
 import Gallery from "./pages/Gallery";
 import Contact from "./pages/Contact";
 import MobileStickyBar from "./components/MobileStickyBar";
-import { MessageCircle, Phone, MapPin } from "lucide-react";
+
 
 function App() {
   const [activePage, setActivePage] = useState("home");
